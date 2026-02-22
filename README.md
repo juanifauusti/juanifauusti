@@ -33,12 +33,6 @@ Intereses: arquitectura de software, desarrollo móvil, desarrollo web y segurid
 - SQL Server
 - MongoDB
 
-### Herramientas
-- Git
-- GitHub
-- Vercel
-- Rive
-
 ## Proyectos
 
 ### Tosty App
@@ -51,14 +45,6 @@ Stack: React Native, JavaScript.
 - Desarrollo web con JavaScript.
 - Implementación de bases de datos relacionales.
 - Diagramas UML.
-
-## Formación
-
-Ingeniería en Informática (en curso)  
-Universidad Nacional de La Matanza
-
-Técnica en Informática (finalizado)
-Instituto Técnico Industrial San Judas Tadeo
 
 ## Contacto
 
