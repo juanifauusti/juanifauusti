@@ -1,40 +1,43 @@
 # Juana Calzada
 
-Desarrolladora de Software  
+Software Developer | Frontend Developer
 Estudiante de Ingeniería en Informática
 
-## Perfil
+## Sobre Mí
 
-Estudiante de Ingeniería en Informática con formación técnica en desarrollo de software y experiencia en desarrollo frontend móvil y web. Participación en proyectos reales y freelance, con foco en interfaces eficientes y escalables.
+Soy Técnica en Informática y estudiante de Ingeniería en Informática en la Universidad Nacional de La Matanza. Me especializo en desarrollo frontend web y móvil, participando en proyectos reales y freelance desde el diseño y desarrollo hasta la implementación.
 
-Intereses: arquitectura de software, desarrollo móvil, desarrollo web y seguridad informática.
+Me interesa crear soluciones digitales funcionales, eficientes y escalables, y continuar creciendo en áreas como arquitectura de software, desarrollo web, desarrollo móvil y seguridad informática.
 
 ## Stack Tecnológico
 
 ### Lenguajes
+- C#
 - JavaScript
 - TypeScript
 - Python
 - SQL
-- C#
 
 ### Frontend
 - React Native
 - React
 - HTML
 - CSS
+- Next.js
+- Bootstrap
 - Expo
 
 ### Backend 
-- Nodejs
+- Node.js
 - Express.js
+- ASP.NET
+- EntityFramework
 - Prisma
+
+### Bases de datos
+- MySQL
 - SQL Server
 - MongoDB
-
-### Ecosistema .NET
-- ASP.NET 
-- EntityFramework
 
 ### Herramientas
 - Git
@@ -42,29 +45,41 @@ Intereses: arquitectura de software, desarrollo móvil, desarrollo web y segurid
 - npm/yarn
 - Vite
 - Postman
+- Vercel
+- VS Code
+- Visual Studio
+- Powershell
+- Figma
 
 ## Proyectos
 
 ### Tosty App
-Aplicación móvil orientada al seguimiento de hábitos digitales.  
-Liderazgo en la planificación y organización del proyecto.
-Desarrollo completo del frontend movil
-Desarrollo de la lading page (https://www.tosty.online)
-Stack: React Native, JavaScript.
+Aplicación móvil orientada al seguimiento y desarrollo de hábitos digitales.  
+- Liderazgo en la planificación, organización y seguimiento del proyecto.
+- Desarrollo integral del frontend móvil.
+- Desarrollo de la landing page.
 
-### Web Freelance
-Diseño y desarrollo de sitio web para “Por las Familias”.
-Implementación de interfaz responsive y optimización de experiencia de usuario.
-Tecnologías utilizadas: React, TypeScript, CSS.
-Visita la web: https://www.porlasfamilias.com.ar
+Stack: React Native, JavaScript, Expo.
+🔗 tosty.online
+
+### Por las Familias — Proyecto Freelance
+Diseño y desarrollo de un sitio web institucional para Por las Familias.
+
+- Desarrollo de la interfaz y experiencia responsive.
+- Implementación de componentes reutilizables.
+- Optimización de la experiencia de usuario.
+
+Stack: React, TypeScript, CSS.
+🔗 www.porlasfamilias.com.ar
 
 ### Proyectos Académicos
 - Desarrollo de aplicaciones de escritorio con tecnologías .NET.
-- Desarrollo web con JavaScript.
-- Implementación de bases de datos relacionales.
-- Diagramas UML.
+- Desarrollo de aplicaciones web con JavaScript.
+- Diseño e implementación de bases de datos relacionales.
+- Modelado de sistemas mediante diagramas UML.
 
 ## Contacto
 
 Email: juanacalzada01@gmail.com  
 LinkedIn: www.linkedin.com/in/juanacalzada
+Ubicación: Buenos Aires, Argentina
