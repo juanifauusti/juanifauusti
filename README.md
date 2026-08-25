@@ -1,7 +1,6 @@
 # Juana Calzada
 
-Software Developer | Frontend Developer
-Estudiante de Ingeniería en Informática
+Software Developer | Frontend Developer | Estudiante de Ingeniería en Informática
 
 ## Sobre Mí
 
